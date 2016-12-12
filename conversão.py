@@ -8,7 +8,9 @@ Kelvin 	Grau Celsius 	          -->   °C = K − 273,15
 Grau Celsius 	Rankine 	      -->   °R = (°C + 273,15) × 1,8
 Rankine 	Grau celsius 	      -->   °C = (°R ÷ 1,8) – 273,15
 '''
-
+'''
+by Samuelson Siqueira
+'''
 
 def Choice():
     print('1- Grau Celsius para Grau Fahrenheit')
